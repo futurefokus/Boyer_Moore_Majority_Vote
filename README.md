@@ -54,7 +54,7 @@ The project includes a **benchmark runner** that measures:
 - The computed majority element
 
 Benchmark results are saved to `performance/bench_results.csv` and can be used for performance analysis.
-![img.png](../Boyer-Moore/img.png)
+![img.png](../Boyer-Moore_Majoruty_Vote/src/img.png)
 Example usage:
 
 ```bash
