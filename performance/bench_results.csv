@@ -1,0 +1,5 @@
+InputSize,TimeMillis,MajorityElement,MemoryKB
+100,0.014,0,0
+1000,0.0315,3,0
+10000,0.27,8,0
+100000,2.167,7,110
